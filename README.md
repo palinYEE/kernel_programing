@@ -4,7 +4,8 @@
 # 목차
  
  1. [hello_world](/hello_world/): 커널 개발 처음으로 hello world 를 출력하는 코드입니다. 
-
+ 2. [hello](/hello/): file operation 을 사용한 hello 코드입니다. 하지만 현재 에러가 발생하고 있습니다. (`fs.h`에서 `inode` 구조체와 `file_operation` 구조체가 없음.. 왜지?)
+    * 출처: https://kkamagui.tistory.com/882
 
 # 커널 개발의 기초
 
